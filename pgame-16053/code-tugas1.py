@@ -1,1 +1,1 @@
- print (" BUAT AKUN GITHUB_tugas1")
+print ("BUAT AKUN GITHUB_tugas1")
